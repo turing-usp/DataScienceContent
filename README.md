@@ -43,8 +43,8 @@ Repo usado para armazenar os conteúdos de Data Science para que todos possamos 
 
 ## Aulinhas Internas (2020)
 
-* [Dask]()
+* [Dask](https://github.com/turing-usp/DataScienceContent/tree/main/aulinhas_2020)
 
-* [Plotly]()
+* [Plotly](https://github.com/turing-usp/DataScienceContent/tree/main/aulinhas_2020)
 
-* [SVD]()
+* [SVD](https://github.com/turing-usp/DataScienceContent/tree/main/aulinhas_2020)
