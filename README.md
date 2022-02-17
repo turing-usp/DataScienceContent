@@ -12,5 +12,39 @@ Repo usado para armazenar os conteúdos de Data Science para que todos possamos 
 * [Tópicos de Estatística básica *(começar aqui se não souber nada de Estat)*](https://docs.google.com/document/d/1C9Z3LW3CojlI9F3cLdj_0ssVO3muSxpjiTRC_2Rvjjs/edit#heading=h.jqnd747s6zvy)
 
 
+## Aulas de Data Science (2019)
 
- 
+* [Introdução a Data Science (definição básica)](https://docs.google.com/document/d/1MnjlgqIPUcF_-H3qQ6s7_lLUSC4eXHAQZpSiQHhkcX8/edit)
+
+* [Drive de aulas (Introdução à Estatística, SQL, Plotly, Time Series)](https://drive.google.com/drive/u/1/folders/1AqKzfRObjxnECSyF7qTAeop4Cb6KzmXw)
+
+## Notebooks (antiga árvore de habilidades)
+
+
+* [KNN](https://github.com/turing-usp/DataScienceContent/tree/main/notebooks_conceitos_iniciais)
+
+* [Numpy](https://github.com/turing-usp/DataScienceContent/tree/main/notebooks_conceitos_iniciais)
+
+* [Pandas](https://github.com/turing-usp/DataScienceContent/tree/main/notebooks_conceitos_iniciais)
+
+* [Pandas Practice](https://github.com/turing-usp/DataScienceContent/tree/main/notebooks_conceitos_iniciais)
+
+* [Matplotlib](https://github.com/turing-usp/DataScienceContent/tree/main/notebooks_conceitos_iniciais)
+
+* [Hyper Parameter Tuning](https://github.com/turing-usp/DataScienceContent/tree/main/notebooks_conceitos_iniciais)
+
+* [Facebook's Prophet](https://github.com/turing-usp/DataScienceContent/tree/main/notebooks_conceitos_iniciais)
+
+* [Data Scrapping (Beatiful Soup)](https://github.com/turing-usp/DataScienceContent/tree/main/notebooks_conceitos_iniciais)
+
+* [Análise de Dados (wine dataset)](https://github.com/turing-usp/DataScienceContent/tree/main/notebooks_conceitos_iniciais)
+
+* [Perceptron](https://github.com/turing-usp/DataScienceContent/tree/main/notebooks_conceitos_iniciais)
+
+## Aulinhas Internas (2020)
+
+* [Dask]()
+
+* [Plotly]()
+
+* [SVD]()
